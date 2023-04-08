@@ -22,7 +22,7 @@ As a front-end developer, I have experience working on e-commerce websites like 
 
 # Over look Of The Website
 
-![Jaydees](https://github.com/mohsin23441/Jaydees-E-Commerce-/blob/main/jaydees%20png.png)
+![Jaydees](https://github.com/mohsin23441/POS-Project/blob/main/JAVA%20PROJECT%201.png)
 
 ## Contact Me
 feel free to reach out to me if you have any question or would like to work toghether]
