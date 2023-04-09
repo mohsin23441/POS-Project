@@ -1,15 +1,7 @@
 # POS-Project
 ![JAYDEES](https://github.com/mohsin23441/POS-Project/blob/main/Project%20Logo.png)
-
-# Jaydees-E-Commerce-
-
-This E-Commerce Website which shows my Front End Development skills 
-
-## Live Website
-You can view the live website at [Jaydees](https://jaydees.netlify.app/)
-
 ## Descripion
-As a front-end developer, I have experience working on e-commerce websites like [Jaydees](https://jaydees.netlify.app/). I have developed responsive and user-friendly interfaces using HTML, CSS, and JavaScript.With a focus on delivering a seamless user experience, I have optimized page load times and implemented various e-commerce features such as shopping carts and payment gateways.
+The POS system is designed to help businesses manage their sales transactions and inventory, providing a user-friendly interface for store associates to process transactions and update inventory levels. The project includes features such as barcode scanning, payment processing, and inventory management. The code is open-source, allowing developers to customize and enhance the system to meet their specific business needs. This project is ideal for businesses looking for a reliable, customizable, and scalable POS system.
 
 ## Features
 ##### 1. Product catalog
