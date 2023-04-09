@@ -8,11 +8,11 @@ The POS system is designed to help businesses manage their sales transactions an
 ##### 2. Billing Process
 ##### 3. Bill Print
 ##### 4. Product detail
-##### 5. Whishlists
+##### 5. Multiple payment method/ split payment
 
 # Over look Of The Project
 
-![Jaydees](https://github.com/mohsin23441/POS-Project/blob/main/JAVA%20PROJECT%201.png)
+![POS](https://github.com/mohsin23441/POS-Project/blob/main/JAVA%20PROJECT%201.png)
 
 ## Contact Me
 feel free to reach out to me if you have any question or would like to work toghether]
