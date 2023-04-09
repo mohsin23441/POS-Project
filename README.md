@@ -4,15 +4,13 @@
 The POS system is designed to help businesses manage their sales transactions and inventory, providing a user-friendly interface for store associates to process transactions and update inventory levels. The project includes features such as barcode scanning, payment processing, and inventory management. The code is open-source, allowing developers to customize and enhance the system to meet their specific business needs. This project is ideal for businesses looking for a reliable, customizable, and scalable POS system.
 
 ## Features
-##### 1. Product catalog
-##### 2. Chechkout Process
-##### 3. Reviews And Ratings
-##### 4. Free Delivery
+##### 1. Product code
+##### 2. Billing Process
+##### 3. Bill Print
+##### 4. Product detail
 ##### 5. Whishlists
-##### 6. Discount And Promnotions
-##### 7. Customer Support
 
-# Over look Of The Website
+# Over look Of The Project
 
 ![Jaydees](https://github.com/mohsin23441/POS-Project/blob/main/JAVA%20PROJECT%201.png)
 
